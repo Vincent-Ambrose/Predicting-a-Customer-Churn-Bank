@@ -1,4 +1,4 @@
-# Predicting-a-Customer-Churn
+# Predicting-a-Customer-Churn-Bank
 Predicting what factors would increase the likelihood of a customer walking away
 
 
